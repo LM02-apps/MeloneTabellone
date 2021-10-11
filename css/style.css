@@ -1,0 +1,20 @@
+.divform
+{
+    background-color:#b3ffb3;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.container { 
+    position: relative;
+
+  }
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
