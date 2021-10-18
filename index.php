@@ -1,7 +1,13 @@
 <?php
+    session_start();
 
 
+    $_SESSION['nomestudente'] = $_POST['nomestudente'];
+    $_SESSION['sesso'] = $_POST['sesso'];
+    $_SESSION['materia'] = $_POST['materia'];
+    
 ?>
+
 <html>
     <head>
         <link rel="stylesheet" href="css/style.css">
@@ -37,5 +43,6 @@
             
             </form>
         </div>
+
     </body>
 </html>
