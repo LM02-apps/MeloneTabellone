@@ -16,13 +16,13 @@
             <label>F<br>
             
             <p>Debiti: 
-            <input type="checkbox" name="materia[]" value="italiano">
+            <input type="checkbox" name="materia[]" value="Italiano">
             <label>ITA  
-            <input type="checkbox" name="materia[]" value="matematica">
+            <input type="checkbox" name="materia[]" value="Matematica">
             <label>MAT 
-            <input type="checkbox" name="materia[]" value="telecomunicazioni">
+            <input type="checkbox" name="materia[]" value="Telecomunicazioni">
             <label>TEL 
-            <input type="checkbox" name="materia[]" value="informatica">
+            <input type="checkbox" name="materia[]" value="Informatica">
             <label>INF <br><br>
             
             <div class="container">
